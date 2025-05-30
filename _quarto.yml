@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "irequena24.github.io"
+  title: "mysite"
   navbar:
     left:
       - href: index.qmd

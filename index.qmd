@@ -1,11 +1,5 @@
 ---
-title: "irequena24.github.io"
+title: "Ignacio Requena"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Hey there! I'm Nacho Requena (pronounced Reh-Keh-Nah). Professionally, I love everything about maps. Outside of work, I like to build things, work on my car, and barbecue with my friends and family. 
