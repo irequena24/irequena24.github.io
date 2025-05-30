@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ignacio Requena",
     "section": "",
     "text": "Hey there! I’m Nacho Requena (pronounced Reh-Keh-Nah). Professionally, I love everything about maps. Outside of work, I like to build things, work on my car, and barbecue with my friends and family."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
