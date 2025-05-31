@@ -6,13 +6,8 @@ about:
   template: jolla
   image-shape: round
   image-width: 17em
-  links:
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/ignacio-requena-770803185/
-    - text: GitHub
-      href: https://github.com/irequena24
-    - text: Email
-      href: mailto:irequena@ucsb.edu
 ---
 
-Hey there! I'm Nacho Requena (pronounced Reh-Keh-Nah). Professionally, I love everything about maps. Outside of work, I like to build things, work on my car, and barbecue with my friends and family.
+Hey there! I'm Nacho Requena (pronounced Reh-Keh-Nah). In this website, which I designed using Quarto, you can find out just about everything about me!
+
+Born and raised in Argentina,

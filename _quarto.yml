@@ -9,7 +9,14 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - resources.qmd
+      - resume.qmd
+    right:
+      - icon: github
+        href: https://github.com/irequena24
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ignacio-requena-770803185/
+      - icon: envelope
+        href: mailto:ignaciorequena@icloud.com
 
 format:
   html:
