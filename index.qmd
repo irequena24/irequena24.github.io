@@ -1,5 +1,5 @@
 ---
-# title: "Ignacio Requena"
+title: "Ignacio Requena"
 image: media/headshot.jpg
 toc: false
 about:
