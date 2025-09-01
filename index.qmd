@@ -1,0 +1,29 @@
+---
+title: "Ignacio Requena"
+subtitle: "Spatial Data Analyst"
+image: media/headshot.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - icon: github
+      text: LinkedIn
+      href: https://github.com/irequena24
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ignacio-requena-770803185/
+    - icon: envelope
+      text: e-mail
+      href: mailto:ignaciorequena@icloud.com
+---
+
+## Title 
+
+<hr class="custom-line">
+
+Hey there! I'm Nacho Requena (pronounced Reh-Keh-Nah). In this website, which I designed using Quarto, you can find out just about everything about me!
+
+Born and raised in Argentina,
+
+<hr class="custom-line">

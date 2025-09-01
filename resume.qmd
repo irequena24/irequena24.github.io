@@ -1,0 +1,8 @@
+---
+title: "Resumé"
+format: html
+---
+
+<iframe src="media/resume.pdf" width="100%" height="800px" style="border: none;">
+
+</iframe>
