@@ -8,7 +8,7 @@ about:
   image-width: 20em
   links:
     - icon: github
-      text: LinkedIn
+      text: GitHub
       href: https://github.com/irequena24
     - icon: linkedin
       text: LinkedIn
