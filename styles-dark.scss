@@ -1,0 +1,38 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+$gray1:#F8F8F8;
+$darkturq:#2F4F4F;
+$gold:#E9B116;
+$slateblue:#688dbd;
+
+/* Dark bases */
+$ink-1: #0f1717;  /* page background */
+$ink-2: #172424;  /* panels, blocks */
+
+/* Base document colors — DARK */
+$navbar-bg: $darkturq;
+$navbar-fg: $gray1;
+$navbar-hl: lighten($gold, 10%);
+
+$body-bg: $ink-1;
+$body-color: $gray1;
+
+$footer-bg: $darkturq;
+$footer-fg: $gray1;
+
+/* Higher-contrast links (still “gold-ish”) */
+$link-color: mix($gold, #ffffff, 75%);   /* brighter */
+$inline-code-color: lighten($slateblue, 18%);
+$code-color: lighten($slateblue, 20%);
+
+/* Warmer, low-glare code background */
+$code-bg: #2b2620;   /* dark tan vibe */
+
+/* shared vars */
+$panel-bg: $ink-2;
+$shadow-color: rgba(0,0,0,0.55);
+$focus-ring: 0 0 0 3px rgba(233,177,22,.35);
+
+/* Make headings pop more on dark */
+$heading-color: mix($gray1, $gold, 85%);  /* soft off-white with a hint of gold */

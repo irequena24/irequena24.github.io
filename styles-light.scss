@@ -1,0 +1,31 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap');
+
+$gray1:#F8F8F8;
+$lightblue:#E0FFFF;
+$darkturq:#2F4F4F;
+$gold:#E9B116;
+$slateblue:#688dbd;
+$tan:#f2eae0;
+
+/* Base document colors — LIGHT */
+$navbar-bg: $darkturq;
+$navbar-fg: $gray1;
+$navbar-hl: $gold;
+
+$body-bg: $gray1;
+$body-color: $darkturq;
+
+$footer-bg: $darkturq;
+$footer-fg: $gray1;
+
+$link-color: $gold;
+$inline-code-color: $slateblue;
+$code-color: $slateblue;
+$code-bg: $tan;
+
+/* new shared vars */
+$panel-bg: $gray1;                         /* panels/boxes */
+$shadow-color: rgba($darkturq, 0.20);
+$focus-ring: 0 0 0 3px rgba($gold, .35);   /* keyboard focus */
+$heading-color: $darkturq;                 /* keep original look in light */

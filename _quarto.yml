@@ -33,7 +33,9 @@ page-footer:
 format:
   html:
     theme: 
-    - styles.scss
+      light: [styles-light.scss, styles-common.scss]
+      dark: [styles-dark.scss, styles-common.scss]
+    respect-user-color-scheme: true
     mainfont: Raleway
     toc: false
     anchor-sections: false

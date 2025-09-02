@@ -1,0 +1,56 @@
+/*-- scss:rules --*/
+
+/* headings pick color from vars */
+h1 { letter-spacing: 5px; font-weight: 700; color: $heading-color; }
+h2, h4 { letter-spacing: 5px; font-weight: 700; font-size: 28px; color: $heading-color; }
+h3 { letter-spacing: 1px; font-weight: 700; font-size: 20px; color: $heading-color; }
+
+.title, .subtitle { color: $heading-color; }
+
+/* Link refinements for contrast & a11y */
+a, a:link { color: $link-color; text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:focus-visible { outline: none; box-shadow: $focus-ring; border-radius: 4px; }
+a:visited { color: mix($link-color, #7a7a7a, 70%); } /* subtle visited state */
+
+.custom-line { border-style: solid; border-top: 3px solid $darkturq; }
+
+/* images/shadows use the mode-aware $shadow-color */
+.float-right-image {
+  float: right; margin-left: .5em; margin-bottom: .5em; width: 400px; border-radius: 14px;
+  box-shadow: 0 5px 8px $shadow-color; transition: transform .3s ease, box-shadow .3s ease;
+}
+
+.button-container { display:flex; justify-content:center; align-items:center; margin-top:25px; }
+.button {
+  color: $gold; border: 2px solid $darkturq; padding: 10px 20px; border-radius: 5px;
+  text-align: center; text-decoration: none; display: inline-block; font-size: 16px; cursor: pointer;
+  margin-inline: 25px; transition: background-color .2s ease, color .2s ease, border-color .2s ease;
+}
+.button:hover { background-color: $gold; color: $darkturq; border-color: $gold; }
+
+.banner-container { position: relative; top: -50px; left: 0; width: 100%; }
+.banner-image-two { position: absolute; top: -75px; left: 0; width: 100%; max-width: 150%;
+  height: 380px; object-fit: cover; z-index: 0; }
+
+.center-banner-box { background-color: $darkturq; color: $gray1; position: absolute; top: 175px; width: 35rem; border-radius: 25px; }
+
+/* use panel-bg so it adapts in dark */
+.gray-placeholder-two {
+  background-color: $panel-bg; padding: 150px 8px 70px 8px; border-radius: 15px; margin-bottom: 20px;
+}
+
+.rounded-hover { border-radius: 15px; transition: transform .3s ease, box-shadow .3s ease; }
+.rounded-hover:hover { transform: scale(1.03); box-shadow: 0 8px 16px rgba(0,0,0,.2); }
+
+.about-image { transition: transform .3s ease, box-shadow .3s ease; }
+.about-image:hover { transform: scale(1.03); box-shadow: 0 8px 16px rgba(0,0,0,.2); }
+
+.image-row { display:flex; gap:3em; justify-content:center; flex-wrap:wrap; }
+.image-row a { text-decoration:none; outline:none; border:none; display:inline-block; }
+
+.float-image {
+  width: 550px; border-radius: 14px; box-shadow: 0 5px 8px $shadow-color; margin: 5px;
+  transition: transform .3s ease, box-shadow .3s ease;
+}
+.float-image:hover, .float-right-image:hover { transform: scale(1.02); box-shadow: 0 8px 16px $shadow-color; }
