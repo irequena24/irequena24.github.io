@@ -4,14 +4,21 @@
     "href": "index.html",
     "title": "Ignacio Requena",
     "section": "",
-    "text": "Hey there! I’m Nacho Requena (pronounced Reh-Keh-Nah). In this website, which I designed using Quarto, you can find out just about everything about me!\nBorn and raised in Argentina,"
+    "text": "Text about me"
   },
   {
-    "objectID": "index.html#title",
-    "href": "index.html#title",
+    "objectID": "index.html#education",
+    "href": "index.html#education",
     "title": "Ignacio Requena",
-    "section": "",
-    "text": "Hey there! I’m Nacho Requena (pronounced Reh-Keh-Nah). In this website, which I designed using Quarto, you can find out just about everything about me!\nBorn and raised in Argentina,"
+    "section": "Education",
+    "text": "Education\nMaster of Environmental Science and Management  Energy & Climate Specialization  Bren School, University of California, Santa Barbara (06/24)\nLicenciatura in Anthropology Bachelor and Master of Science Equivalent  Archaeology Specialization School of Natural Sciences & Museum, Universidad Nacional de La Plata (04/19)"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Ignacio Requena",
+    "section": "Experience",
+    "text": "Experience\nDirector of Spatial Analytics – Collective Energy Company (06/23–Present)\nFounder & Principal Investigator – Astro Consultants (04/20–Present)"
   },
   {
     "objectID": "about.html",

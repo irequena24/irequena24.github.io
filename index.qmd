@@ -1,11 +1,12 @@
 ---
 title: "Ignacio Requena"
 subtitle: "Spatial Data Analyst"
-image: media/headshot.jpg
+image: media/dome.jpg
+image-alt: "View from Glacier Point towards Half Dome, Yosemite"
 about:
   template: trestles
-  image-shape: round
-  image-width: 20em
+  # image-shape: round
+  # image-width: 20em
   links:
     - icon: github
       text: GitHub
@@ -18,12 +19,20 @@ about:
       href: mailto:ignaciorequena@icloud.com
 ---
 
-## Title 
+Text about me
 
-<hr class="custom-line">
+## Education
+**Master of Environmental Science and Management** <br> 
+Energy & Climate Specialization <br> 
+Bren School, University of California, Santa Barbara (06/24)
 
-Hey there! I'm Nacho Requena (pronounced Reh-Keh-Nah). In this website, which I designed using Quarto, you can find out just about everything about me!
+**Licenciatura in Anthropology** *Bachelor and Master of Science Equivalent* <br>
+Archaeology Specialization<br>
+School of Natural Sciences & Museum, Universidad Nacional de La Plata (04/19)<br>
 
-Born and raised in Argentina,
+## Experience
+**Director of Spatial Analytics** – Collective Energy Company (06/23–Present)
+
+**Founder & Principal Investigator** – Astro Consultants (04/20–Present)
 
 <hr class="custom-line">

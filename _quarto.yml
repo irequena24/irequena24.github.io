@@ -29,7 +29,7 @@ page-footer:
   right:
     - "Made using Quarto"
 
-
+## Style of the website
 format:
   html:
     theme: 
