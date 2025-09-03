@@ -1,6 +1,6 @@
 ---
 title: "Ignacio Requena"
-subtitle: "Spatial Data Analyst"
+subtitle: "Spatial Data Analyst | Contractor"
 image: media/headshot_2.jpg
 image-alt: "View from Glacier Point towards Half Dome, Yosemite"
 about:
@@ -18,21 +18,16 @@ about:
       text: e-mail
       href: mailto:ignaciorequena@icloud.com
 ---
+## Welcome!
 
-Text about me
+<hr class="custom-line">
 
-## Education
-**Master of Environmental Science and Management** <br> 
-Energy & Climate Specialization <br> 
-Bren School, University of California, Santa Barbara (06/24)
+Hi, I’m Nacho — welcome to my portfolio! I built this site with Quarto as a more dynamic version of my résumé, a place where I can share more about who I am, what I do, and the projects I’ve worked on.
 
-**Licenciatura in Anthropology** *Bachelor and Master of Science Equivalent* <br>
-Archaeology Specialization<br>
-School of Natural Sciences & Museum, Universidad Nacional de La Plata (04/19)<br>
+I studied Environmental Science and Management at UC Santa Barbara’s [Bren School](https://bren.ucsb.edu/masters-programs/master-environmental-science-and-management), focusing on clean energy and community resilience. For my [master’s project](https://bren.ucsb.edu/projects/sunstone-energy-solar-and-battery-microgrids-solution-tribal-energy-gap-eco-e), I created a tool to show how solar can reduce emissions and lower electricity costs, and I later grew that work into a social impact venture with support from Bren’s Eco-Entrepreneurship Council and the California Nanosystems Institute. I also bring a background in anthropology and archaeology from the Universidad Nacional de La Plata in Argentina, where I researched Native communities in Patagonia and the Andes. After graduating, I launched an archaeology consulting firm in Santa Barbara before shifting my focus to spatial data and energy resilience.
 
-## Experience
-**Director of Spatial Analytics** – Collective Energy Company (06/23–Present)
+These days, I’m a contract spatial data scientist at [Collective Energy Company](https://collectiveenergyco.com), where I help design and deploy solar + battery microgrids for health centers across the U.S. Our goal is to keep critical facilities powered during outages, wildfires, and other climate-driven challenges.
 
-**Founder & Principal Investigator** – Astro Consultants (04/20–Present)
+Thanks for visiting — I’d love to explore ways we can work together!
 
 <hr class="custom-line">
