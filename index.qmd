@@ -1,12 +1,12 @@
 ---
 title: "Ignacio Requena"
 subtitle: "Spatial Data Analyst"
-image: media/dome.jpg
+image: media/headshot_2.jpg
 image-alt: "View from Glacier Point towards Half Dome, Yosemite"
 about:
   template: trestles
-  # image-shape: round
-  # image-width: 20em
+  image-shape: round
+  image-width: 20em
   links:
     - icon: github
       text: GitHub

@@ -28,7 +28,7 @@ Universidad Nacional de La Plata \| April 2019
 
 <h3>Data Programming, Management & Processing</h3>
 
-Python, Google Colab, VS Code, Jupyter Lab, R/RStudio, Git/GitHub, Excel and Sheets
+Python, Google Colab, VS Code, Jupyter Lab, R, RStudio, Git, GitHub, Excel and Sheets
 
 <h3>Data Automation & Integration</h3>
 
@@ -36,15 +36,17 @@ API Requests, ArcGIS Notebook, Google Cloud Scheduler, Google Apps Scripts
 
 <h3>Remote Sensing & Geospatial Analysis</h3>
 
-Google Earth Engine, Rasterio, Rioxarray, Whitebox Tools, GeoPandas, Rasterio, Xarray<br> GUI-based: ArcGIS Map/Pro/Online, QGIS, SAGA, GRASS
+Google Earth Engine, Rasterio, Rioxarray, Whitebox Tools, GeoPandas, Xarray<br> 
+GUI-based: ArcGIS Map/Pro/Online, ArcGIS Spatial Analyst, QGIS, SAGA, GRASS
 
 <h3>Data Visualization</h3>
 
-Leafmap, MapLibre, GEE Map, Voilà, Solara, Shiny app/dashboard, ggplot, Leaflet, Quarto, RMarkown, CSS, HTML, Javascript, Tableau<br> GUI-based: ArcGIS Experience Builder, Dashboard, and StoryMaps
+Leafmap, MapLibre, GEE Map, Voilà, Solara, Shiny app/dashboard, ggplot, Leaflet, Quarto, RMarkown, CSS, HTML, Javascript, Tableau<br> 
+GUI-based: Adobe Illustrator and Photoshop; ArcGIS Experience Builder, Dashboard, and StoryMaps
 
 <h3>Policy & Communication</h3>
 
-Reporting, policy analysis, grant writing, technical writing, budgeting, public presentation, stakeholder engagement
+Technical reporting/writing, policy analysis, grant writing, budgeting, public presentation, stakeholder engagement
 
 <h3>Languages</h3>
 
@@ -65,7 +67,7 @@ Part-Time Remote (06/23-present)
 
 <h3>Founder & Principal Investigator -- Astro Consultants</h3>
 
-Project Based & Remote (04/20-present)
+Project Based & Remote (04/19-present)
 
 -   Authored and co-authored 30 Cultural Resource 40-page reports in compliance with California Environmental Quality Act (CEQA) requirements for infrastructure projects across Santa Barbara City and County.
 -   Led the design and management of +150 cultural resource projects across southern and central California overseeing field surveys, testing, monitoring, archival research, data management, and GIS mapping.
@@ -79,61 +81,14 @@ Part-Time Remote (4/23–5/25)
 -   Developed 2 comprehensive and interactive solar power feasibility dashboard maps using LiDAR data and deep-learning models to support high-resolution solar radiation modeling.
 -   Secured a \$10,000 research grant from the California NanoSystems Institute (CNSI) to advance deep-learning solar resource modeling and microgrid feasibility analysis.
 
-<h3>Teachers Assistant -- University of California</h3>
-
-Santa Barbara (9/22–6/24) \| Biological Anthropology \| Cultural Anthropology \| Archaeology \| Sociology \|
-
--   In each subject, instructed three 20-student sections, graded homework & exams, and provided support & advising for undergraduate students.
-
 <h3>Spatial Data Analyst Intern -- Collective Energy Company</h3>
 
 Part-Time Remote (06/23-09/23)
 
--   Applied GIS analysis to evaluate health centers and other critical nonprofit facilities, assessing: (1) site feasibility for solar + battery storage, (2) risk of prolonged outages from wildfire, PSPS events, and other hazards, and (3) community social vulnerability to prioritize sites for resilience investments."
+-   Applied GIS analysis to evaluate health centers and other critical nonprofit facilities, assessing: (1) site feasibility for solar + battery storage, (2) risk of prolonged outages from wildfire, PSPS events, and other hazards, and (3) community social vulnerability to prioritize sites for resilience investments.
 
-<h3>Contract Archaeologist -- California</h3>
+<!-- Downlad Button  -->
 
-Senior -- Strata Science (2020-2024)<br> Senior -- Soar Environmental Consultants, Inc.(2022-2024)<br> Associate -- Leftwich Archaeology (2022-2024)<br> Associate -- Provenience Group (2020-2022)<br> Technician -- Rincon Consultants (2019-2020) <br> Technician -- Dudek (2019-2020)<br>
-
--   Accomplishments and responsibilities similar to that of Astro Consultants
-
-<h3>Volunteer Archaeological Field Technician -- University of La Plata</h3>
-
-Arroyo Pescado, Buenos Aires, Argentina (10/17)
-
--   Excavated, surveyed, and conducted site layout & mapping for historic human remain remain collections
-
-Choele-Choel, Rio Negro, Argentina (04/17)
-
--   Unit excavation, stratigraphic profile mapping, sample inventory and sorting. Site layout and mapping, field lab work. Lithic analysis, burial, feature, and control unit excavation.
-
-7th Military Regiment of Arana, Buenos Aires, Argentina (03/17)
-
--   Director of excavation. Site layout and mapping. Stratigraphic profile mapping.
--   Project under Provincial Direction of Investigation and Memory, Secretary of Humans Rights of the Province of Buenos Aires (Dirección Provincial de Investigación y Memoria, Secretaria de Derechos Humanos de la Provincia de Buenos Aires) and the Equipo Argentino de Antropología Forense EAAF (Argentine Team of Forensic Anthropology.
-
-Punta Indio, Buenos Aires, Argentina (09/13)
-
--   Directed unit excavation, stratigraphic profile mapping, sample inventory and field sorting.
-
-Olavarria, Buenos Aires, Argentina (2016)
-
--   Unit excavation, stratigraphic profile mapping, sample inventory and sorting.
-
-Puerta de Corral Quemado, Catamarca, Argentina (12/16)
-
--   Unit excavation, stratigraphic profile mapping, sample inventory and sorting.
-
-Cuesta Miranda, La Rioja, Argentina (10/15)
-
--   Area survey, GPS, GIS mapping, total station, photogrammetry. Multidisciplinary approach (anthropology, geoarchaeology, petrology, mineralogy geomorphology).
-
-<h3>Internships in Archaeology -- University of La Plata</h3>
-
-Anthropology Division of the Natural Sciences Museum of La Plata (2017-2019)
-
--   Conducted bone analysis of historic human remains stored at the museum.
-
-Scientific Department of Archaeology (2014-2016)
-
--   Conducted lithic analysis of artifacts excavated from archaeological sites of Rio Negro.
+::: button-container
+<a href="media/resume.pdf" class="button" style="margin-top: 0px">View/Download Resume PDF</a>
+:::
