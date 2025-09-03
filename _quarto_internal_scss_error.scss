@@ -12857,11 +12857,12 @@ a:visited { color: mix($link-color, #7a7a7a, 70%); } /* subtle visited state */
 /* force a footer bar for themes that don't include one */
 .quarto-page-footer {
   display: block;
-  background-color: $footer-bg;
-  color: $footer-fg;
-  padding: 1rem;
+  background-color: $darkturq;
+  color: $gray1;
   text-align: center;
+  padding: 1rem;
 }
+
 
 
 // quarto-scss-analysis-annotation { "origin": null }

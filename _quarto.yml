@@ -22,13 +22,6 @@ website:
       - icon: envelope
         href: mailto:ignaciorequena@icloud.com
 
-## Footer
-page-footer:
-  left:
-    - "Copyright 2025, Ignacio Requena"
-  right:
-    - "Made using Quarto"
-
 ## Style of the website
 format:
   html:
@@ -40,6 +33,7 @@ format:
     toc: false
     anchor-sections: false
     page-layout: full
+    include-after-body: footer.html
 
 editor: visual
 
