@@ -1,7 +1,7 @@
 ---
 title: "Ignacio Requena"
 subtitle: "Spatial Data Analyst | Contractor"
-image: media/headshot_2.jpg
+image: media/dome.jpg
 image-alt: "View from Glacier Point towards Half Dome, Yosemite"
 about:
   template: trestles
@@ -18,6 +18,7 @@ about:
       text: e-mail
       href: mailto:ignaciorequena@icloud.com
 ---
+
 ## Welcome!
 
 <hr class="custom-line">

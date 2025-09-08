@@ -7,11 +7,38 @@
 
 <h4>Projects</h4>
 
-**Past**
+**Rooftop Solar Photovoltaics**
 
-Description
+Using high-resolution LiDAR data, I developed two interactive Esri ArcGIS dashboards for the San Pasqual Band of Mission Indians (San Diego County, CA) and Pine Mountain Lake (Tuolumne County, CA). These custom solar microgrid dashboards support teams during the prefeasibility phase of renewable energy projects conducted in remote and end-of gridline communities, enabling site selection, prioritization, and strategic energy planning. The dashboards combine technical, financial, and environmental insights to provide a holistic view of project feasibility:
+
+-   Building Modeling: Electricity demand analysis, solar panel detection and mapping, solar potential assessment, optimal system sizing
+
+-   Grid Modeling: Grid reliability assessment, electricity expenditure analysis
+
+-   Financial Modeling: Net present value, levelized cost of energy and storage, tax credits, deductions, and incentives
+
+-   Climate Reports: Emissions avoidance analysis, FEMA National Risk Index integration, climate vulnerability insights
 
 ::: image-row
 <a href="https://www.arcgis.com/apps/dashboards/8b593e29d7114ad1baf4d0bd8aa6af1b" target="_blank"> <img src="media/pine.png" alt="Pine Mountain Lake Dashboard" class="float-image"/> </a> <a href="https://www.arcgis.com/apps/dashboards/ef236a604b05468e98c9a8f53b3b4c19" target="_blank"> <img src="media/san.png" alt="San Pasqual Dashboard" class="float-image"/> </a>
 :::
+
+**Light Detection and Ranging (LiDAR)**
+
+Coming soon
+
+::: {layout-ncol="2"}
+![Birds-eye view of neighborhood with vegetation and building points](media/bw_lidar_trees.png){.rounded-hover}
+
+![Birds-eye view of neighborhood with vegetation points removed](media/bw_lidar_2.png){.rounded-hover}
+
+:::
+
+**Electricity Reliability: live and historic**
+
+Coming soon
+
+**Bioenergy Agriculture: prefeasability anaylsis**
+
+Coming soon
 
