@@ -28,7 +28,7 @@ Universidad Nacional de La Plata \| April 2019
 
 <h3>Data Programming, Management & Processing</h3>
 
-Python, Google Colab, VS Code, Jupyter Lab, R, RStudio, Git, GitHub, Excel and Sheets
+Python, Google Colab, VS Code, Jupyter Lab, R, RStudio, Git, GitHub, Microsoft Excel, Google Sheets, OpenRefine
 
 <h3>Data Automation & Integration</h3>
 
@@ -36,13 +36,11 @@ API Requests, ArcGIS Notebook, Google Cloud Scheduler, Google Apps Scripts
 
 <h3>Remote Sensing & Geospatial Analysis</h3>
 
-Google Earth Engine, Rasterio, Rioxarray, Whitebox Tools, GeoPandas, Xarray<br> 
-GUI-based: ArcGIS Map/Pro/Online, ArcGIS Spatial Analyst, QGIS, SAGA, GRASS
+Google Earth Engine, Rasterio, Rioxarray, Whitebox Tools, GeoPandas, Xarray<br> GUI-based: ArcGIS Map/Pro/Online, ArcGIS Spatial Analyst, QGIS, SAGA, GRASS
 
 <h3>Data Visualization</h3>
 
-Leafmap, MapLibre, GEE Map, Voilà, Solara, Shiny app/dashboard, ggplot, Leaflet, Quarto, RMarkown, CSS, HTML, Javascript, Tableau<br> 
-GUI-based: Adobe Illustrator and Photoshop; ArcGIS Experience Builder, Dashboard, and StoryMaps
+Leafmap, MapLibre, GEE Map, Voilà, Solara, Shiny app/dashboard, ggplot, Leaflet, Quarto, RMarkown, CSS, HTML, Javascript, Tableau<br> GUI-based: Adobe Illustrator and Photoshop; ArcGIS Experience Builder, Dashboard, and StoryMaps
 
 <h3>Policy & Communication</h3>
 
@@ -50,7 +48,7 @@ Technical reporting/writing, policy analysis, grant writing, budgeting, public p
 
 <h3>Languages</h3>
 
-Fluent in Spanish and English. Conversational Portuguese and Italian.
+Spanish (native), English (fluent), Portuguese (professional working proficiency), Italian (limited working proficiency)
 
 <!-- Experience -->
 
