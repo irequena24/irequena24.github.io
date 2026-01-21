@@ -31,7 +31,6 @@ Coming soon
 ![Birds-eye view of neighborhood with vegetation and building points](media/bw_lidar_trees.png){.rounded-hover}
 
 ![Birds-eye view of neighborhood with vegetation points removed](media/bw_lidar_2.png){.rounded-hover}
-
 :::
 
 **Electricity Reliability: live and historic**
@@ -41,4 +40,3 @@ Coming soon
 **Bioenergy Agriculture: prefeasability anaylsis**
 
 Coming soon
-
