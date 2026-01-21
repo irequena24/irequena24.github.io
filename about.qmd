@@ -34,9 +34,7 @@ Coming soon
 :::
 
 **Electricity Reliability: live and historic**
+<a href="https://experience.arcgis.com/experience/971cff4165f24858815b3fcd61e58877" target="_blank"> <img src="media/electricity.png" alt="Health Centers & Electricity Reliability" class="float-image"/> </a> <a
 
-Coming soon
-
-**Bioenergy Agriculture: prefeasability anaylsis**
-
-Coming soon
+**Bioenergy Agriculture: prefeasability analysis**
+Coming soonnn
