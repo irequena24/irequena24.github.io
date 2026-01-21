@@ -33,8 +33,8 @@ Coming soon
 ![Birds-eye view of neighborhood with vegetation points removed](media/bw_lidar_2.png){.rounded-hover}
 :::
 
-**Electricity Reliability: live and historic**
-<a href="https://experience.arcgis.com/experience/971cff4165f24858815b3fcd61e58877" target="_blank"> <img src="media/electricity.png" alt="Health Centers & Electricity Reliability" class="float-image"/> </a> <a
+::: image-row
+<a href="https://experience.arcgis.com/experience/971cff4165f24858815b3fcd61e58877" target="_blank"> <img src="media/electricity.png" alt="Health Centers &amp; Electricity Reliability" class="float-image"/> </a> \<a
+:::
 
-**Bioenergy Agriculture: prefeasability analysis**
-Coming soonnn
+**Bioenergy Agriculture: prefeasability analysis** Coming soonnn
