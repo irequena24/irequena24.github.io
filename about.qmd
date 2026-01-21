@@ -20,12 +20,11 @@ Using high-resolution LiDAR data, I developed two interactive Esri ArcGIS dashbo
 -   Climate Reports: Emissions avoidance analysis, FEMA National Risk Index integration, climate vulnerability insights
 
 ::: image-row
-<a href="https://www.arcgis.com/apps/dashboards/8b593e29d7114ad1baf4d0bd8aa6af1b" target="_blank"> <img src="media/pine.png" alt="Pine Mountain Lake Dashboard" class="float-image"/> </a> <a href="https://www.arcgis.com/apps/dashboards/ef236a604b05468e98c9a8f53b3b4c19" target="_blank"> <img src="media/san.png" alt="San Pasqual Dashboard" class="float-image"/> </a>
+<a href="https://www.arcgis.com/apps/dashboards/8b593e29d7114ad1baf4d0bd8aa6af1b" target="_blank"> <img src="media/pine.png" alt="Pine Mountain Lake Dashboard" class="float-image"/> </a> 
+<a href="https://www.arcgis.com/apps/dashboards/ef236a604b05468e98c9a8f53b3b4c19" target="_blank"> <img src="media/san.png" alt="San Pasqual Dashboard" class="float-image"/> </a>
 :::
 
 **Light Detection and Ranging (LiDAR)**
-
-Coming soon
 
 ::: {layout-ncol="2"}
 ![Birds-eye view of neighborhood with vegetation and building points](media/bw_lidar_trees.png){.rounded-hover}
@@ -33,8 +32,8 @@ Coming soon
 ![Birds-eye view of neighborhood with vegetation points removed](media/bw_lidar_2.png){.rounded-hover}
 :::
 
-::: image-row
-<a href="https://experience.arcgis.com/experience/971cff4165f24858815b3fcd61e58877" target="_blank"> <img src="media/electricity.png" alt="Health Centers &amp; Electricity Reliability" class="float-image"/> </a> \<a
-:::
+**Live electricity reliability meter by County**
 
-**Bioenergy Agriculture: prefeasability analysis** Coming soonnn
+::: image-row
+<a href="https://experience.arcgis.com/experience/971cff4165f24858815b3fcd61e58877" target="_blank"> <img src="media/electricity.png" alt="Health Centers &amp; Electricity Reliability" class="float-image"/> </a>
+:::
